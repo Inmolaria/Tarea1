@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+</head>
+<body>
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style>
+            h1 {
+                color: rgb(16, 68, 28); 
+                font-family: 'Times New Roman', Times, serif, sans-serif;
+            }
+            p{
+                color: rgb(21, 31, 67); 
+                font-family: Calibri, sans-serif;
+            }
+            
+        </style>
+        
+    </head>
+   
+
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografía David Ordoñez</title>
+    
+    <style>
+        h1 {
+            font-family: Arial, sans-serif; /* Cambia "Arial" por la fuente que desees */
+        }
+        /* Estilo para el cuadro superior */
+        .cuadro-superior {
+            background-color: #484532; /* Cambia "#FFD700" por el color que desees */
+            height: 60px; /* Altura del cuadro */
+            width: 100%; /* Ancho completo */
+        }
+
+        /* Estilo para el botón */
+        .btn-info {
+            position: fixed;
+            bottom: 30px; /* Distancia desde la parte inferior */
+            right: 20px; /* Distancia desde el lado derecho */
+            font-size: 16px; /* Tamaño del texto */
+            
+        }
+
+        /* Estilo para el texto dentro del elemento <h1> */
+        
+    </style>
+</head>
+<body>
+    
+    <!-- Cuadro de color superior -->
+    <div class="cuadro-superior"></div>
+  
+    <h1>Biografía David Ordoñez</h1>
+    <!-- Botón con estilo y texto dentro -->
+    <button type="button" class="btn btn-info">Info</button>
+</body>
+</html>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Biografía de David Ordoñez</title>
+</head>
+<body>
+    <p>¡Bienvenido!</p>
+    <img src="https://lh3.googleusercontent.com/pw/AP1GczPpeAl51yXpJnmYBT7gvYFB0BD2QVlJvH7EtGpZojK2JaDS_-kCLN_emNbyFAKe47t4UkQCB34_M4-4KmIRdW0fEyu2L0gkN1bbfY0T8BDE8rPgx_vP7YRdAeZtISmuu5kTbnkeRf5K0h2gjEf0iu1Kw22DX5SKALA6tPkB8g8KK1AmfiZMI1LD2nKi1Kj0j5zLylaiu38SKtycgLrm1tmCjoPAwkY62EOMi-0cJSp3p8GVmfFbh9igv55BtMwATakGMeDaKQQd_-1QA0U6q1fL3qvl7ciV74clP3bJeAVyCmHvz6nPEpK7zlHuA5LAN0ymgnv_UFK7WYHiHNd54kHV6owimzhsMIFYcj4zYx41t0F0QQ-P1unavdyPEjfYrgRJqKlT4-zOSYI_4Dju7-uOEm5JGZy2EE5FHGebo6wLZmPhFieHgwI07rze_n7TooMNYe_5X2qO5J3gLt2WN8UKYo22Htyeg8uMRlL6l31VgV-7Y54dZqVpn11gagqU71tZRa8JdWLZBZci02IEBKvc_V8d6o_5Kki-O8cc6bDvzylljkzF025r9wSmy3cUE8FhnqRjQ9tF0kIg3hUVJB2H6xfNXwoJ9gB1V-VlPfBuFJzH0gETYeZhuk_WZJicGy3eQbrk0x8nhuBtRDJ9eISPwWtY0yRrZTiMhRfyiBwp23UrM4h8u15HAbCerbfVSD5eL5uKbzbY4qN-doa_wryVB7l980jxVzZHAQblNVwKFwZsYS4C1pjgoRu33KXGen6AtdMwlIZFcx0YixrgQ67XHOc4CfJFYIR9CCbURFxMFgRu-N42r-Kx5dOteYC6A-pPqCHQpzZBy9GMbZ5MFIXEiTTxcQwDFZBRrJN8rBGmIOhZIF8iQwqB5iAWP1MJCZlmLFxCLfrv9MggqUiRAQ=w223-h223-s-no-gm?authuser=0">
+    <p>Mi nombre es David Ordoñez, tengo 19 años y soy Machaleño. Aquí encontrarás algunos aspectos de mí que no conocías.</p>
+</body>
+</html>
+ <div class="">
+    <h2> 
+        Cargos
+    </h2> 
+    <d2>
+        Por el momento solo he realizado una pagina web sencilla para la venta de 
+        todo tipo de muebles realizados en carpinteria, ahora me encuentro ayudando
+        a mi mamá con su negocio y espero poder crear programas para negocios.
+    </d2>
+    <div class="hazañas">
+        <h2>
+            Estudios
+        </h2>
+        <d3>
+            Me encuentro cursando el quinto semestre de la carrera de TI en la Universidad
+            Tecnica de Machala, en el colegio estudie "Ciencias Generales", ¿Quien diria que 
+            no estudiaria en algo referente a ello?
+        </d3>
+    <div class="">
+        <h3>
+            Metas
+        </h3>
+        <d4>
+            Lo que me gustaria es desempeñarme en diseños ya sea para logos, campañas publicitarias, etc.
+            Aunque hasta el momento la programacion en html para el diseño de paginas web me esta gustando.
+        </d4>
+    </div>
+    </div>
+    <div class="dropdown">
+        <a class="btn btn-secondary dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          ¿Quieres conocer mas acerca de mi?
+        </a>
+      
+        <ul class="dropdown-menu">
+          <li><a class="dropdown-item" href="#">Pasatiempos</a></li>
+          <li><a class="dropdown-item" href="#">Logros</a></li>
+          <li><a class="dropdown-item" href="#">Aspiraciones</a></li>
+          
+        </ul>
+      </div>
+
+ </div>
+</html>
